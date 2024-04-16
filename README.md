@@ -30,6 +30,21 @@ Explore other projects related to food delivery and online ordering:
 # Licensing
 The Food Delivery App website is licensed under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
+# Problems
+
+- Problem1
+
+In the begenning of the project sometime i write code but when i check my website i found everything in mess even if i wrote everything as i saw it on the video, i was confused and wondering why that’s happen (you can see this photo below).
+
+After i tried to check on Youtube and ask ChatGpt what could be the problem that made things looks crazy, as you see in this screenshot the name FoodHome is out of the box where it should be, after some researches i got understand that browser and the screen size can influence the code. Then i changed the brower as well as i zoomed the page, and fortunatly it worked (Check screenshot below)
+
+- Problem2
+
+I wanted to have 3 cards in each lines as i saw in the video (line1 with 3 cards / line2 with 3 cards), i wrote everything as i saw it but unfortunatly it does not work. i did not know what to do ? (Here is the code of each ) so i wrore 3 cards, as you see here the card i call it in the CSS by class “detail-card“.
+
+After thinking for while it comes to my mind an idea and i said let’s try it and see if it would work or not !! so i added a new div with class name column (check screenshot below) and last thing i did it to style it on CSS by using  display : flex and justify content : center.
+
+C:\FoodDeliveryApp\images\image (1).png
 
 
 
